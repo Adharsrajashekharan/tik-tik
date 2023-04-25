@@ -1,0 +1,7 @@
+{
+    "emmet.preferences": {
+      
+    },
+    "livePreview.customExternalBrowser": "Firefox",
+    "liveServer.settings.CustomBrowser": "firefox"
+}
